@@ -1,5 +1,6 @@
+//基本字符串压缩
+
 import java.util.*;
- 
 public class Zipper {
     public String zipString(String iniString) {
         // write code here
