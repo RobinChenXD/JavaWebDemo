@@ -10,3 +10,4 @@
 - [跳台阶](https://github.com/chenyuze/OJ-etc./blob/master/JumpFloor.java)
 - [字符串压缩](https://github.com/chenyuze/OJ-etc./blob/master/Zipper.java)
 - [二维数组找整数](https://github.com/chenyuze/OJ-etc./blob/master/FindIntInArray.java)
+- [二进制中1的个数](https://github.com/chenyuze/OJ/blob/master/NumberOf1.java)
