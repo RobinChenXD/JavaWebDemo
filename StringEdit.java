@@ -1,4 +1,4 @@
-//搜狐实习生笔试题 求两个字符串的编辑距离
+//搜狐实习生笔试题 求两个字符串的编辑距离  
 import java.util.Scanner;
 public class StringEdit {
 
