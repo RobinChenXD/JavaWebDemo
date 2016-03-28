@@ -13,4 +13,4 @@ void   InsSort(RecordType  r[],  int length)
 		}
 		r[j+1]=r[0];		         /*将待插入记录插入到已排序的序列中*/
 	}
-} /*  InsSort  */ 
+} /*  InsSort  */  
