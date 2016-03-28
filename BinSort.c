@@ -20,3 +20,4 @@ void    BinSort (RecordType  r[],  int length)
 		r[low]=x;                                                            /* 插入记录 */ 
 	}
 }/*BinSort*/
+ 
