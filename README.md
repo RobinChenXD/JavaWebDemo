@@ -11,3 +11,7 @@
 - [字符串压缩](https://github.com/chenyuze/OJ-etc./blob/master/Zipper.java)
 - [二维数组找整数](https://github.com/chenyuze/OJ-etc./blob/master/FindIntInArray.java)
 - [二进制中1的个数](https://github.com/chenyuze/OJ/blob/master/NumberOf1.java)
+- [第k大的结点](https://github.com/chenyuze/OJ/blob/master/KthNode.java)
+- [汉诺塔](https://github.com/chenyuze/OJ/blob/master/Hanoi.java)
+- [A+B](https://github.com/chenyuze/OJ/blob/master/AplusB.java)
+- [冒泡排序](https://github.com/chenyuze/OJ/blob/master/BubbleSort.c)
