@@ -1,3 +1,4 @@
+//垒积木，华为实习上机第二题
 #include <stdio.h>  
 #include <string.h>  
    
