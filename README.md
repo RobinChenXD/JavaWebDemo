@@ -15,3 +15,4 @@
 - [汉诺塔](https://github.com/chenyuze/OJ/blob/master/Hanoi.java)
 - [A+B](https://github.com/chenyuze/OJ/blob/master/AplusB.java)
 - [冒泡排序](https://github.com/chenyuze/OJ/blob/master/BubbleSort.c)
+- [垒积木（华为实习机试）](https://github.com/chenyuze/OJ/blob/master/dp.c)
