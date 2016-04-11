@@ -17,3 +17,4 @@
 - [冒泡排序](https://github.com/chenyuze/OJ/blob/master/BubbleSort.c)
 - [垒积木（华为实习机试）](https://github.com/chenyuze/OJ/blob/master/dp.c)
 - [链表翻转的进阶](https://github.com/chenyuze/OJ/blob/master/ReverseListFromNthToMth.java)
+- [数字分类](https://github.com/chenyuze/OJ/blob/master/ReverseListFromNthToMth.java)
