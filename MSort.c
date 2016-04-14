@@ -1,6 +1,6 @@
 void   MSort(RecordType  r1[],  int  low,  int  high,  RecordType  r3[])
-/* r1[low..high]¾­¹ıÅÅĞòºó·ÅÔÚr3[low..high]ÖĞ£¬r2[low..high]Îª¸¨Öú¿Õ¼ä */ 
-{
+/* r1[low..high]ç»è¿‡æ’åºåæ”¾åœ¨r3[low..high]ä¸­ï¼Œr2[low..high]ä¸ºè¾…åŠ©ç©ºé—´ */ 
+{ 
 	int mid;
 	RecordType  r2[20];
 	if ( low==high ) 
